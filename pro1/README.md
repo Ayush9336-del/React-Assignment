@@ -1,4 +1,4 @@
-# React-Assignment
+<!-- # React-Assignment
 
 
 ques -2 --------------------------------------
@@ -58,6 +58,7 @@ Class Component: A React component written as a class that extends React.Compone
  ques -4 ----------------------------
  const element = <h1>Hello, World!;</h1>;
 
+
 The problem is invalid JSX syntax.
  
 The semicolon ; is inside the JSX content, which breaks JSX parsing.
@@ -66,4 +67,4 @@ JSX treats everything between <h1> and </h1> as text or expressions
 the semicolon doesn’t belong there.
 
  right code -- > 
-const element = <h1>Hello, World!</h1>;
+const element = <h1>Hello, World!</h1>; -->
